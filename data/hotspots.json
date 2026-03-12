@@ -1,0 +1,716 @@
+[
+  {
+    "lat": 6,
+    "lon": 3,
+    "name": "Hotspot cluster",
+    "detail": "41 conflict events detected",
+    "intensity": 3
+  },
+  {
+    "lat": 36,
+    "lon": -119,
+    "name": "Hotspot cluster",
+    "detail": "31 conflict events detected",
+    "intensity": 3
+  },
+  {
+    "lat": 9,
+    "lon": 7,
+    "name": "Hotspot cluster",
+    "detail": "6 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 49,
+    "lon": 32,
+    "name": "Hotspot cluster",
+    "detail": "6 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 43,
+    "lon": -71,
+    "name": "Hotspot cluster",
+    "detail": "10 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": -6,
+    "lon": 106,
+    "name": "Hotspot cluster",
+    "detail": "9 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 39,
+    "lon": -98,
+    "name": "Hotspot cluster",
+    "detail": "21 conflict events detected",
+    "intensity": 3
+  },
+  {
+    "lat": 33,
+    "lon": 35,
+    "name": "Hotspot cluster",
+    "detail": "14 conflict events detected",
+    "intensity": 2
+  },
+  {
+    "lat": 31,
+    "lon": -97,
+    "name": "Hotspot cluster",
+    "detail": "17 conflict events detected",
+    "intensity": 2
+  },
+  {
+    "lat": 51,
+    "lon": 10,
+    "name": "Hotspot cluster",
+    "detail": "7 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 34,
+    "lon": -118,
+    "name": "Hotspot cluster",
+    "detail": "18 conflict events detected",
+    "intensity": 2
+  },
+  {
+    "lat": 32,
+    "lon": -64,
+    "name": "Hotspot cluster",
+    "detail": "5 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 10,
+    "lon": 8,
+    "name": "Hotspot cluster",
+    "detail": "14 conflict events detected",
+    "intensity": 2
+  },
+  {
+    "lat": 40,
+    "lon": -82,
+    "name": "Hotspot cluster",
+    "detail": "6 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 40,
+    "lon": -111,
+    "name": "Hotspot cluster",
+    "detail": "5 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 37,
+    "lon": -78,
+    "name": "Hotspot cluster",
+    "detail": "6 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 42,
+    "lon": -74,
+    "name": "Hotspot cluster",
+    "detail": "19 conflict events detected",
+    "intensity": 2
+  },
+  {
+    "lat": 32,
+    "lon": 90,
+    "name": "Hotspot cluster",
+    "detail": "7 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 42,
+    "lon": -71,
+    "name": "Hotspot cluster",
+    "detail": "20 conflict events detected",
+    "intensity": 2
+  },
+  {
+    "lat": 1,
+    "lon": -78,
+    "name": "Hotspot cluster",
+    "detail": "7 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 48,
+    "lon": 2,
+    "name": "Hotspot cluster",
+    "detail": "7 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 3,
+    "lon": 99,
+    "name": "Hotspot cluster",
+    "detail": "12 conflict events detected",
+    "intensity": 2
+  },
+  {
+    "lat": 52,
+    "lon": 5,
+    "name": "Hotspot cluster",
+    "detail": "6 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 21,
+    "lon": -157,
+    "name": "Hotspot cluster",
+    "detail": "9 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 31,
+    "lon": -100,
+    "name": "Hotspot cluster",
+    "detail": "6 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 27,
+    "lon": 85,
+    "name": "Hotspot cluster",
+    "detail": "8 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 31,
+    "lon": 34,
+    "name": "Hotspot cluster",
+    "detail": "60 conflict events detected",
+    "intensity": 3
+  },
+  {
+    "lat": 48,
+    "lon": 11,
+    "name": "Hotspot cluster",
+    "detail": "8 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 20,
+    "lon": 77,
+    "name": "Hotspot cluster",
+    "detail": "13 conflict events detected",
+    "intensity": 2
+  },
+  {
+    "lat": 32,
+    "lon": 53,
+    "name": "Hotspot cluster",
+    "detail": "59 conflict events detected",
+    "intensity": 3
+  },
+  {
+    "lat": 25,
+    "lon": 61,
+    "name": "Hotspot cluster",
+    "detail": "35 conflict events detected",
+    "intensity": 3
+  },
+  {
+    "lat": 36,
+    "lon": -76,
+    "name": "Hotspot cluster",
+    "detail": "38 conflict events detected",
+    "intensity": 3
+  },
+  {
+    "lat": 55,
+    "lon": -4,
+    "name": "Hotspot cluster",
+    "detail": "14 conflict events detected",
+    "intensity": 2
+  },
+  {
+    "lat": 54,
+    "lon": -6,
+    "name": "Hotspot cluster",
+    "detail": "6 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 28,
+    "lon": 77,
+    "name": "Hotspot cluster",
+    "detail": "29 conflict events detected",
+    "intensity": 3
+  },
+  {
+    "lat": 6,
+    "lon": 7,
+    "name": "Hotspot cluster",
+    "detail": "5 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 37,
+    "lon": 139,
+    "name": "Hotspot cluster",
+    "detail": "6 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 32,
+    "lon": -83,
+    "name": "Hotspot cluster",
+    "detail": "25 conflict events detected",
+    "intensity": 3
+  },
+  {
+    "lat": 20,
+    "lon": 84,
+    "name": "Hotspot cluster",
+    "detail": "8 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 25,
+    "lon": 55,
+    "name": "Hotspot cluster",
+    "detail": "14 conflict events detected",
+    "intensity": 2
+  },
+  {
+    "lat": 31,
+    "lon": 35,
+    "name": "Hotspot cluster",
+    "detail": "8 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 37,
+    "lon": 140,
+    "name": "Hotspot cluster",
+    "detail": "10 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 44,
+    "lon": -89,
+    "name": "Hotspot cluster",
+    "detail": "13 conflict events detected",
+    "intensity": 2
+  },
+  {
+    "lat": 43,
+    "lon": -79,
+    "name": "Hotspot cluster",
+    "detail": "14 conflict events detected",
+    "intensity": 2
+  },
+  {
+    "lat": 35,
+    "lon": 51,
+    "name": "Hotspot cluster",
+    "detail": "38 conflict events detected",
+    "intensity": 3
+  },
+  {
+    "lat": 41,
+    "lon": 41,
+    "name": "Hotspot cluster",
+    "detail": "8 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 39,
+    "lon": 34,
+    "name": "Hotspot cluster",
+    "detail": "7 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 42,
+    "lon": -93,
+    "name": "Hotspot cluster",
+    "detail": "5 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 38,
+    "lon": -97,
+    "name": "Hotspot cluster",
+    "detail": "5 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 20,
+    "lon": -156,
+    "name": "Hotspot cluster",
+    "detail": "7 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 29,
+    "lon": -95,
+    "name": "Hotspot cluster",
+    "detail": "8 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 26,
+    "lon": 50,
+    "name": "Hotspot cluster",
+    "detail": "8 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 28,
+    "lon": 52,
+    "name": "Hotspot cluster",
+    "detail": "8 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 41,
+    "lon": -93,
+    "name": "Hotspot cluster",
+    "detail": "5 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 40,
+    "lon": -76,
+    "name": "Hotspot cluster",
+    "detail": "8 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 25,
+    "lon": 51,
+    "name": "Hotspot cluster",
+    "detail": "9 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 39,
+    "lon": -105,
+    "name": "Hotspot cluster",
+    "detail": "9 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 32,
+    "lon": 68,
+    "name": "Hotspot cluster",
+    "detail": "6 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": -26,
+    "lon": 28,
+    "name": "Hotspot cluster",
+    "detail": "8 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": -26,
+    "lon": 27,
+    "name": "Hotspot cluster",
+    "detail": "6 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 33,
+    "lon": 44,
+    "name": "Hotspot cluster",
+    "detail": "15 conflict events detected",
+    "intensity": 2
+  },
+  {
+    "lat": -34,
+    "lon": -58,
+    "name": "Hotspot cluster",
+    "detail": "5 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 17,
+    "lon": -88,
+    "name": "Hotspot cluster",
+    "detail": "9 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 35,
+    "lon": 47,
+    "name": "Hotspot cluster",
+    "detail": "10 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 24,
+    "lon": 46,
+    "name": "Hotspot cluster",
+    "detail": "6 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 41,
+    "lon": -72,
+    "name": "Hotspot cluster",
+    "detail": "7 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 10,
+    "lon": 76,
+    "name": "Hotspot cluster",
+    "detail": "6 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 51,
+    "lon": 0,
+    "name": "Hotspot cluster",
+    "detail": "16 conflict events detected",
+    "intensity": 2
+  },
+  {
+    "lat": 37,
+    "lon": -122,
+    "name": "Hotspot cluster",
+    "detail": "8 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 49,
+    "lon": -121,
+    "name": "Hotspot cluster",
+    "detail": "6 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 46,
+    "lon": 2,
+    "name": "Hotspot cluster",
+    "detail": "21 conflict events detected",
+    "intensity": 3
+  },
+  {
+    "lat": 32,
+    "lon": 34,
+    "name": "Hotspot cluster",
+    "detail": "8 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 25,
+    "lon": -80,
+    "name": "Hotspot cluster",
+    "detail": "5 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 60,
+    "lon": -96,
+    "name": "Hotspot cluster",
+    "detail": "5 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 60,
+    "lon": 100,
+    "name": "Hotspot cluster",
+    "detail": "6 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 54,
+    "lon": -4,
+    "name": "Hotspot cluster",
+    "detail": "10 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 38,
+    "lon": -77,
+    "name": "Hotspot cluster",
+    "detail": "20 conflict events detected",
+    "intensity": 2
+  },
+  {
+    "lat": 39,
+    "lon": 116,
+    "name": "Hotspot cluster",
+    "detail": "5 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": -26,
+    "lon": 152,
+    "name": "Hotspot cluster",
+    "detail": "5 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": -30,
+    "lon": -71,
+    "name": "Hotspot cluster",
+    "detail": "5 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 35,
+    "lon": -79,
+    "name": "Hotspot cluster",
+    "detail": "8 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 41,
+    "lon": -87,
+    "name": "Hotspot cluster",
+    "detail": "6 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 40,
+    "lon": -77,
+    "name": "Hotspot cluster",
+    "detail": "8 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 8,
+    "lon": 48,
+    "name": "Hotspot cluster",
+    "detail": "10 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 11,
+    "lon": 42,
+    "name": "Hotspot cluster",
+    "detail": "23 conflict events detected",
+    "intensity": 3
+  },
+  {
+    "lat": 8,
+    "lon": 38,
+    "name": "Hotspot cluster",
+    "detail": "8 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 18,
+    "lon": 72,
+    "name": "Hotspot cluster",
+    "detail": "6 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 37,
+    "lon": -84,
+    "name": "Hotspot cluster",
+    "detail": "5 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 38,
+    "lon": -84,
+    "name": "Hotspot cluster",
+    "detail": "6 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 44,
+    "lon": -99,
+    "name": "Hotspot cluster",
+    "detail": "5 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 40,
+    "lon": -3,
+    "name": "Hotspot cluster",
+    "detail": "6 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 50,
+    "lon": -2,
+    "name": "Hotspot cluster",
+    "detail": "6 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 25,
+    "lon": 45,
+    "name": "Hotspot cluster",
+    "detail": "9 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 50,
+    "lon": 30,
+    "name": "Hotspot cluster",
+    "detail": "37 conflict events detected",
+    "intensity": 3
+  },
+  {
+    "lat": 55,
+    "lon": 37,
+    "name": "Hotspot cluster",
+    "detail": "10 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 33,
+    "lon": -111,
+    "name": "Hotspot cluster",
+    "detail": "6 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 34,
+    "lon": -92,
+    "name": "Hotspot cluster",
+    "detail": "20 conflict events detected",
+    "intensity": 2
+  },
+  {
+    "lat": 47,
+    "lon": 19,
+    "name": "Hotspot cluster",
+    "detail": "14 conflict events detected",
+    "intensity": 2
+  },
+  {
+    "lat": 27,
+    "lon": -81,
+    "name": "Hotspot cluster",
+    "detail": "9 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 47,
+    "lon": -121,
+    "name": "Hotspot cluster",
+    "detail": "6 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 47,
+    "lon": -122,
+    "name": "Hotspot cluster",
+    "detail": "8 conflict events detected",
+    "intensity": 1
+  },
+  {
+    "lat": 32,
+    "lon": -80,
+    "name": "Hotspot cluster",
+    "detail": "6 conflict events detected",
+    "intensity": 1
+  }
+]
